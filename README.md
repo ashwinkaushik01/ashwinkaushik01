@@ -23,7 +23,7 @@ Level up my coding skills 🚀
 🛠️ Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,python,git,github,vscode&theme=dark" />
 </p>
 
 📊 GitHub Stats
