@@ -1,16 +1,16 @@
-## Hi there 👋
+Hey, I'm Ashwin 👋
 
-<!--
-**ashwinkaushik01/ashwinkaushik01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Developer | 🚀 Building cool stuff
 
-Here are some ideas to get you started:
+🧑‍💻 About Me
+🌱 Currently learning programming
+🔭 Working on cool projects
+🎯 Goal: Become a better developer
+🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+HTML CSS JavaScript Python Git
+
+📊 My Projects
+🚀 My First Project : vision cursor 
+🌐 Connect With Me
+GitHub: @ashwinkaushik01
